@@ -1,2 +1,5 @@
-this is the first page
-Great start
+<!doctype html>
+
+        <body>
+this is it
+        </body>
