@@ -1,6 +1,9 @@
-<html>
+<!doctype html>
+<head></head>
 <body>
-<b> Bitty Pass</b>
-</body>
-</html>
+<?php include "header.php"?>
+<div class="content">
 
+</div>
+<?php include "footer.php"?>
+</body>
