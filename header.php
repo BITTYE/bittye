@@ -14,49 +14,21 @@
                                 <span class="icon-bar"></span>
                             </button>
                         </div>
-                        <div class="collapse navbar-collapse bs-example-js-navbar-collapse pull-right">
-                            <ul class="nav navbar-nav">
-                                <li class="dropdown">
-                                    <a data-toggle="dropdown" class="dropdown-toggle" role="button" href="#" id="drop1">Dropdown
-                                        <span class="caret"></span></a>
-                                    <ul aria-labelledby="drop1" role="menu" class="dropdown-menu">
-                                        <li role="presentation"><a href="http://twitter.com/fat" tabindex="-1"
-                                                                   role="menuitem">Action</a></li>
-                                        <li role="presentation"><a href="http://twitter.com/fat" tabindex="-1"
-                                                                   role="menuitem">Another action</a></li>
-                                        <li role="presentation"><a href="http://twitter.com/fat" tabindex="-1"
-                                                                   role="menuitem">Something else here</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a data-toggle="dropdown" class="dropdown-toggle" role="button" id="drop2" href="#">Dropdown
-                                        2 <span class="caret"></span></a>
-                                    <ul aria-labelledby="drop2" role="menu" class="dropdown-menu">
-                                        <li role="presentation"><a href="http://twitter.com/fat" tabindex="-1"
-                                                                   role="menuitem">Action</a></li>
-                                        <li role="presentation"><a href="http://twitter.com/fat" tabindex="-1"
-                                                                   role="menuitem">Another action</a></li>
-                                        <li role="presentation"><a href="http://twitter.com/fat" tabindex="-1"
-                                                                   role="menuitem">Something else here</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a data-toggle="dropdown" class="dropdown-toggle" role="button" id="drop3" href="#">Dropdown
-                                        3 <span class="caret"></span></a>
-                                    <ul aria-labelledby="drop3" role="menu" class="dropdown-menu">
-                                        <li role="presentation"><a href="http://twitter.com/fat" tabindex="-1"
-                                                                   role="menuitem">Action</a></li>
-                                        <li role="presentation"><a href="http://twitter.com/fat" tabindex="-1"
-                                                                   role="menuitem">Another action</a></li>
-                                        <li role="presentation"><a href="http://twitter.com/fat" tabindex="-1"
-                                                                   role="menuitem">Something else here</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
                         <!-- /.nav-collapse -->
                     </div>
                     <!-- /.container-fluid -->
+                    <div class="collapse navbar-collapse bs-example-js-navbar-collapse pull-right">
+                        <ul class="nav navbar-nav">
+                           <?php include "header-category.php"?>
+                           <?php include "header-category.php"?>
+                           <?php include "header-category.php"?>
+                           <?php include "header-category.php"?>
+                           <?php include "header-category.php"?>
+                           <?php include "header-category.php"?>
+                           <?php include "header-category.php"?>
+                        </ul>
+                    </div>
+
                 </nav>
                 <?php include "subscription.php"?>
             </div>
