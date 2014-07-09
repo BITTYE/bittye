@@ -3,6 +3,7 @@
     <link rel="stylesheet" href="styles/bootstrap.css"/>
     <script src="scripts/libs/jquery-1.11.1.min.js"></script>
     <script src="scripts/libs/bootstrap.min.js"></script>
+    <script src="scripts/login-register.js"></script>
 </head>
 <body>
 <?php include "header.php"?>
