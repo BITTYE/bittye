@@ -15,65 +15,117 @@
                             </button>
                         </div>
                         <!-- /.nav-collapse -->
-                    </div>
-                    <!-- /.container-fluid -->
-                    <div class="user-profile">
-                        <ul class="nav navbar-nav">
-                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">User Profile<span class="glyphicon glyphicon-user pull-right"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="#">Account Settings <span class="glyphicon glyphicon-cog pull-right"></span></a></li>
-                                    <li class="divider"></li>
-                                    <li><a href="#">User stats <span class="glyphicon glyphicon-stats pull-right"></span></a></li>
-                                    <li class="divider"></li>
-                                    <li><a href="#">Messages <span class="badge pull-right"> 42 </span></a></li>
-                                    <li class="divider"></li>
-                                    <li><a href="#">Favourites Snippets <span class="glyphicon glyphicon-heart pull-right"></span></a></li>
-                                    <li class="divider"></li>
-                                    <li><a href="#">Sign Out <span class="glyphicon glyphicon-log-out pull-right"></span></a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="collapse navbar-collapse bs-example-js-navbar-collapse pull-right">
-                        <div class="dropdown">
-                            <a data-toggle="dropdown" href="#">Login</a>
-                            <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-                                <?php include "login.php"?>
+                        <div class="user-profile pull-right">
+                            <ul class="nav navbar-nav">
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">User Profile<span
+                                            class="glyphicon glyphicon-user pull-right"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="#">Account Settings <span
+                                                class="glyphicon glyphicon-cog pull-right"></span></a></li>
+                                        <li class="divider"></li>
+                                        <li><a href="#">User stats <span
+                                                class="glyphicon glyphicon-stats pull-right"></span></a></li>
+                                        <li class="divider"></li>
+                                        <li><a href="#">Messages <span class="badge pull-right"> 42 </span></a></li>
+                                        <li class="divider"></li>
+                                        <li><a href="#">Favourites Snippets <span
+                                                class="glyphicon glyphicon-heart pull-right"></span></a></li>
+                                        <li class="divider"></li>
+                                        <li><a href="#">Sign Out <span
+                                                class="glyphicon glyphicon-log-out pull-right"></span></a></li>
+                                    </ul>
+                                </li>
                             </ul>
                         </div>
-                        <div class="dropdown">
-                            <a data-toggle="dropdown" href="#">Register</a>
-                            <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-                                <?php include "register.php"?>
-                            </ul>
+                        <div class="collapse navbar-collapse bs-example-js-navbar-collapse pull-right">
+                            <button class="btn btn-success btn-md" data-toggle="modal" data-target="#login-modal">
+                                Login
+                            </button>
+                            <!-- Modal -->
+                            <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <?php include "login.php"?>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <button class="btn btn-danger btn-md" data-toggle="modal" data-target="#register-modal">
+                                Register
+                            </button>
+                            <!-- Modal -->
+                            <div class="modal fade" id="register-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <?php include "register.php"?>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
+                        <!-- /.container-fluid -->
                         <!-- Modal -->
-                        <div class="modal fade" id="t_and_c_m" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal fade" id="t_and_c_m" tabindex="-1" role="dialog"
+                             aria-labelledby="myModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                     <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×
+                                        </button>
                                         <h4 class="modal-title" id="myModalLabel">Terms & Conditions</h4>
                                     </div>
                                     <div class="modal-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque,
+                                            modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis
+                                            perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem
+                                            ad.</p>
+
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque,
+                                            modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis
+                                            perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem
+                                            ad.</p>
+
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque,
+                                            modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis
+                                            perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem
+                                            ad.</p>
+
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque,
+                                            modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis
+                                            perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem
+                                            ad.</p>
+
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque,
+                                            modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis
+                                            perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem
+                                            ad.</p>
+
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque,
+                                            modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis
+                                            perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem
+                                            ad.</p>
+
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque,
+                                            modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis
+                                            perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem
+                                            ad.</p>
                                     </div>
                                     <div class="modal-footer">
-                                        <button type="button" class="btn btn-primary" data-dismiss="modal">I Agree</button>
+                                        <button type="button" class="btn btn-primary" data-dismiss="modal">I Agree
+                                        </button>
                                     </div>
-                                </div><!-- /.modal-content -->
-                            </div><!-- /.modal-dialog -->
+                                </div>
+                                <!-- /.modal-content -->
+                            </div>
+                            <!-- /.modal-dialog -->
                             </ul>
                         </div>
                         <div class="navbar-header">
-                            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse">
+                            <button class="navbar-toggle" type="button" data-toggle="collapse"
+                                    data-target=".js-navbar-collapse">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
@@ -83,7 +135,7 @@
                         </div>
 
                         <div class="collapse navbar-collapse js-navbar-collapse">
-                           <?php include "header-category.php"?>
+                            <?php include "header-category.php"?>
                         </div>
                     </div>
                 </nav>
