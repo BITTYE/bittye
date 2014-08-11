@@ -38,7 +38,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="collapse navbar-collapse bs-example-js-navbar-collapse pull-right">
+                        <div class="login-section collapse navbar-collapse bs-example-js-navbar-collapse pull-right">
                             <button class="btn btn-success btn-md" data-toggle="modal" data-target="#login-modal">
                                 Login
                             </button>
@@ -65,6 +65,9 @@
                                     </div>
                                 </div>
                             </div>
+                            <button class="btn btn-danger btn-md" data-toggle="modal" data-target="#register-modal">
+                                Logout
+                            </button>
                         </div>
                         <!-- /.container-fluid -->
                         <!-- Modal -->
