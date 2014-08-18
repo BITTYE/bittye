@@ -3823,11 +3823,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 @media (min-width: 768px) {
   .navbar-left {
     float: left !important;
-    float: left;
   }
   .navbar-right {
     float: right !important;
-    float: right;
   }
 }
 .navbar-form {
@@ -5790,8 +5788,11 @@ button.close {
   font-weight: 700;
 }
 .artist-data {
+  background: none repeat scroll 0 0 #ffffff;
+  border: 3px solid #dfdfdf;
+  margin: 20px 0;
+  padding: 25px;
   width: 100%;
-  padding: 25px 0;
 }
 .artst-pic {
   width: 33%;
@@ -6070,14 +6071,14 @@ body {
   font-family: 'Open Sans', 'sans-serif';
   background: #f0f0f0;
 }
-.navbar-nav > li > .dropdown-menu {
-  margin-top: 20px;
-  border-top-left-radius: 4px;
-  border-top-right-radius: 4px;
-}
 .navbar-default .navbar-nav > li > a {
   width: 200px;
   font-weight: bold;
+  padding: 36px 15px;
+  background: #eeeeee;
+}
+.navbar-default .navbar-nav > li > a:hover {
+  background: #eeeeee;
 }
 .mega-dropdown {
   position: static !important;
@@ -6129,7 +6130,7 @@ body {
 .mega-dropdown-menu > li ul > li > a:focus {
   text-decoration: none;
   color: #444;
-  background-color: #f5f5f5;
+  background-color: #eeeeee;
 }
 .mega-dropdown-menu .dropdown-header {
   color: #428bca;
@@ -6144,6 +6145,18 @@ body {
 }
 .login-section {
   margin-top: 20px;
+}
+.no-padding {
+  padding: 0;
+  margin: 0;
+}
+.user-profile .dropdown > ul > li {
+  min-width: 200px;
+  overflow: hidden;
+}
+.user-profile .dropdown > ul > li > a {
+  padding: 5px 15px 2px;
+  overflow: hidden;
 }
 /*!
  *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome
@@ -6211,12 +6224,6 @@ body {
   padding: .2em .25em .15em;
   border: solid 0.08em #eeeeee;
   border-radius: .1em;
-}
-.pull-right {
-  float: right;
-}
-.pull-left {
-  float: left;
 }
 .fa.pull-left {
   margin-right: .3em;

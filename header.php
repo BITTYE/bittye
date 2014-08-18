@@ -4,7 +4,7 @@
             <div class="topbar col-md-12">
                 <a href="#" class="logo navbar-brand"><img src="images/bitty-pass.png" alt=""/></a>
                 <nav role="navigation" class="navbar navbar-default navbar-static" id="navbar-example">
-                    <div class="container-fluid">
+                    <div class="container-fluid no-padding">
                         <div class="navbar-header">
                             <button data-target=".bs-example-js-navbar-collapse" data-toggle="collapse" type="button"
                                     class="navbar-toggle">
@@ -21,18 +21,18 @@
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">User Profile<span
                                             class="glyphicon glyphicon-user pull-right"></span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="#">Account Settings <span
+                                        <li><a href="#"><span class="pull-left">Account Settings</span> <span
                                                 class="glyphicon glyphicon-cog pull-right"></span></a></li>
                                         <li class="divider"></li>
-                                        <li><a href="#">User stats <span
+                                        <li><a href="#"><span class="pull-left">User stats</span> <span
                                                 class="glyphicon glyphicon-stats pull-right"></span></a></li>
                                         <li class="divider"></li>
-                                        <li><a href="#">Messages <span class="badge pull-right"> 42 </span></a></li>
+                                        <li><a href="#"><span class="pull-left">Messages</span> <span class="badge pull-right"> 42 </span></a></li>
                                         <li class="divider"></li>
-                                        <li><a href="#">Favourites Snippets <span
+                                        <li><a href="#"><span class="pull-left">Favourites Snippets</span> <span
                                                 class="glyphicon glyphicon-heart pull-right"></span></a></li>
                                         <li class="divider"></li>
-                                        <li><a href="#">Sign Out <span
+                                        <li><a href="#"><span class="pull-left">Sign Out</span> <span
                                                 class="glyphicon glyphicon-log-out pull-right"></span></a></li>
                                     </ul>
                                 </li>
