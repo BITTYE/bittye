@@ -977,6 +977,7 @@ b {
     border: 3px solid #f2f2f2;
     padding: 16px 17px;
     transition: border 0.3s;
+    overflow: hidden;
     -o-transition: border 0.3s;
     -ms-transition: border 0.3s;
     -moz-transition: border 0.3s;
@@ -987,7 +988,6 @@ b {
 }
 .coupon-item .img-thumb-center{
     display: table;
-    width: 100%;
     table-layout: fixed;
 }
 .coupon-item .wrap-img-thumb{
@@ -2008,7 +2008,7 @@ b {
 /* 12.	Module group coupon
 --------------------------------------------------------------------------------*/
 .mod-email-newsletter{
-    padding: 8px 0 48px;
+    padding: 20px 0;
 }
 .mod-email-newsletter .wrap-form{
     background: #f2f2f2;

@@ -4,7 +4,7 @@
             <div class="grid_12">
                 <div class="header-content clearfix">
                     <h1 id="logo" class="rs">
-                        <a href="index-2.html">
+                        <a href="index.html">
                             <img src="images/logo.png" alt="$SITE_NAME"/>
                         </a>
                     </h1>
