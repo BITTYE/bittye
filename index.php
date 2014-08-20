@@ -79,7 +79,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -96,7 +96,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -113,7 +113,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -130,7 +130,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -158,7 +158,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -175,7 +175,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -192,7 +192,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -209,7 +209,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -226,7 +226,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -243,7 +243,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -260,7 +260,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -277,7 +277,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -294,7 +294,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -311,7 +311,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -328,7 +328,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -345,7 +345,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -362,7 +362,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -379,7 +379,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -396,7 +396,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -413,7 +413,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -430,7 +430,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
@@ -447,7 +447,7 @@
                     <div class="coupon-brand">Wallmart</div>
                     <div class="coupon-desc">Find Parts for All Major Brands at Sears PartsDirect</div>
                     <div class="time-left">9 days 4 hours left</div></div>
-                <a class="btn btn-blue btn-take-coupon grid_12" href="#">Take Coupon</a>
+                <a class="btn btn-blue btn-take-coupon grid_4" href="#">Grab it!</a>
             </div>
             <i class="stick-lbl hot-sale"></i>
         </div>
